@@ -1,0 +1,150 @@
+﻿* {
+  box-sizing: border-box;
+}
+.tamaño1{
+	height:1100px;	
+	
+	
+	
+}
+header{
+  background-color: #5b7989;
+  padding:1px;
+  text-align: left;
+  text-shadow: 10px 10px 5px #02010a;
+  font-size: 20px;
+  height:20%;
+  color: white;
+  border-radius: 10px;
+  float:center;
+}
+div, .div1{
+	height:50%;
+	width:20%;
+}
+div, .div2{
+	height:1%;
+	width:100%;
+	float :right;
+	}
+header nav  {
+	width:40%;
+	height:2%;
+	margin:20px auto;	
+	text-align: center;
+	padding:0 150px 0 0    ;
+}
+
+.menu_bar {
+	display:none;
+}
+ 
+header nav ul {
+	overflow:hidden;
+	list-style:none;
+}
+	
+
+ 
+header nav ul li{
+	float:left;
+}
+ 
+header nav ul li a{
+	color:#fff;
+	padding:20px;
+	display:block;
+	text-decoration:none;
+}
+ 
+header nav ul li span {
+	margin-right:1px;
+}
+ 
+header nav ul li a:hover {
+	background:#037E8C;
+}
+
+section, .sec1{	
+background-color:#82c3a6;
+padding:15px;
+
+
+
+}
+section, .sec2{	
+background-color:#d5c75f;
+padding:15px;
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+img, .img1{
+	width:100%;height:300px;
+	border-radius:30px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+		
+}
+img, .img2:hover{
+	width:49.5%;height:300px;
+	border-radius:30px;
+	transform: rotate(5deg);
+}
+
+.imgt{
+	border-radius:100%;
+	width:7%;
+	height:7%;
+	
+	
+}
+
+
+footer {
+  background-color: #02010a;
+  padding:2px;
+  text-align: left;
+  text-shadow: 10px 10px 5px #02010a;
+  font-size: 15px;
+  height:20%;
+  color: white;
+  border-radius: 10px;
+  font-family: "Mystery Quest", cursive;
+  font-size: 100%;
+ 
+}
+
+div, .divv1{
+	width:24%;
+	height:100%;
+	border:white 1px solid;
+	border-radius: 10px;
+	padding:5px;
+}
+
+div, .divv2{
+	width:24%;
+	height:100%;	
+	border:white 1px solid;
+	border-radius: 10px;
+	padding:10px;
+	
+}
+div, .divv3{
+	width:24%;
+	height:100%;
+	border:white 1px solid;
+	border-radius: 10px;
+	padding:10px;
+}
+div, .divv4{
+	width:24%;
+	height:100%;
+	border:white 1px solid;
+	border-radius: 10px;
+	padding:10px;
+	
+}
